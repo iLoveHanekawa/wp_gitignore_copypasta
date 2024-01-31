@@ -1,5 +1,5 @@
 # Copy paste
-
+```
 wp-admin
 wp-includes
 index.php
@@ -18,3 +18,4 @@ wp-signup.php
 wp-trackback.php
 xmlrpc.php
 wp-mail.php
+```
